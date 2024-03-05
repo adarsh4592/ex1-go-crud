@@ -9,5 +9,4 @@ run: build
 
 clean:
  go clean
- rm ${BINARY_NAME}-linux
- rm ${BINARY_NAME}-windows
+ rm ${BINARY_NAME}
